@@ -17,7 +17,9 @@ strengths and limitations of these algorithms.
 
 The maze is represented as a 2D grid where:
 ● # represents walls that cannot be traversed.
+
 ● . represents open spaces that can be navigated.
+
 ● * is used to mark the solution path once found.
 
 
